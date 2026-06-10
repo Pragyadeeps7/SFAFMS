@@ -1,0 +1,1 @@
+# Backend\n__pycache__/\n*.py[cod]\n*$py.class\n*.so\n.Python\nvenv/\nenv/\n.venv\n*.egg-info/\ndist/\nbuild/\n\n# FastAPI\n.uvicorn\n\n# IDE\n.vscode/\n.idea/\n*.swp\n*.swo\n*~\n.DS_Store\n\n# Environment\n.env\n.env.local\n\n# Database\n*.db\n*.sqlite\n\n# Logs\n*.log\nlogs/\n\n# Media\nrecordings/\n/tmp/\n
